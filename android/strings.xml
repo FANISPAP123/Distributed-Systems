@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+
+    <string name="enterbutton">Calculate</string>
+    <string name="app_name">map</string>
+    <string name="button_enter">ENTER</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="enter_the_name" ></string>
+</resources>
